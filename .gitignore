@@ -1,0 +1,33 @@
+*.py[co]
+/.project
+/.pydevproject
+
+# Unit test / coverage reports
+/.coverage
+/.tox
+/coverage
+/reports/
+/TEST*.xml
+
+# Translations
+*.mo
+
+# JetBrains IDEs
+/.idea
+
+# Virtualenv
+/.Python
+/include
+/man
+/share
+/src
+/local
+/venv
+
+# Database dumps
+/*.dump
+db.sqlite3
+
+# Visual Studio Code
+.vscode/*
+.vsls.json
